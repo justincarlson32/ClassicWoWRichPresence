@@ -1,17 +1,4 @@
-
-__________                    ___________
-\____    /___________  ____   \__    ___/_  _  ______
-  /     // __ \_  __ \/  _ \    |    |  \ \/ \/ /  _ \
- /     /\  ___/|  | \(  <_> )   |    |   \     (  <_> )
-/_______ \___  >__|   \____/    |____|    \/\_/ \____/
-		\/   \/
-		
-		
 Copyright (C) 2019 Justin Carlson
-
-This piece of software is witheld under the Zero Two license
-which is basically just the GNU public licence. But you know...
-with more DARLING!!!
 
 This program is free software: you can redistribute it and/or modify 
 it under the terms of the GNU General Public License as published by 
@@ -23,17 +10,5 @@ without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR
 See the GNU General Public License for more details.
 You can find more details here: https://www.gnu.org/licenses/gpl-3.0.en.html
 
-⣿⣿⣿⣿⢡⣿⢇⠄⢨⣶⣿⣿⣿⣿⣿⣿⣷⣶⣭⣟⡿⠁⣸⣿⣿⣿⣿⣧⢣⢧
-⣿⣿⣿⡏⣿⢣⠾⣤⠞⣡⣶⣶⣶⣶⣬⣭⣽⣛⠻⣿⡇⠄⡛⢿⣿⣿⣿⣿⡞⣎
-⣿⣿⣸⣁⣵⣿⣶⠎⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣧⢱⡼⢼⣧⡹⣿⣿⣿⡇⣿
-⠄⣩⣵⣿⣿⢹⣿⢃⢳⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⢳⣿⣧⣝⢻⡝⣿⣿⡇⣿
-⠃⣾⠃⣿⡏⢇⣮⣟⠸⡇⣿⣿⢸⠿⣿⣿⣤⢿⣿⣿⢸⢹⡆⡟⣸⣿⡟⣿⡇⣿
-⢰⣿⠄⣿⡇⡜⠛⠛⠿⢤⢹⣿⣼⢀⣿⡏⠿⠄⣿⠟⣰⣦⢧⢱⣿⣿⠳⣿⠃⣿
-⡜⣿⡆⣿⡇⣿⣿⣷⣶⣾⣦⣄⣧⣸⡸⢧⣿⡨⠩⠦⠿⠿⡼⢸⣿⡿⣄⢈⡆⢸
-⠹⣿⡇⣿⡇⣿⣿⣿⣿⣿⣿⣿⢻⣿⣿⣿⣶⣶⣶⣶⣶⣶⡆⣿⣿⢇⡟⣼⡧⣫
-⠄⢹⡇⣿⡇⣿⣿⣿⣿⣿⣿⣧⣤⣿⣿⣿⣿⣿⣿⣿⣿⣿⡇⣿⣿⢘⣾⣿⢷⠋
-⠄⠈⡇⣿⡇⣹⣿⣿⣿⣿⣿⣧⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⢣⣿⡟⣾⣿⣿⠄⠄
-⠄⠄⢠⣿⡇⣷⠘⢿⣿⣧⡲⣾⣭⣭⣿⣒⠊⣹⣿⣿⡿⠁⣸⣿⡇⣿⣿⡏⡇⠄
-⠄⠄⠄⣿⡇⣿⠄⠄⠙⢿⣿⣷⣶⣶⣶⣾⣿⣿⠟⠋⠄⠄⣿⣿⢳⣿⣿⢹⡇⠄
-⠄⠄⠄⠘⣿⢸⢰⣆⠄⠄⠙⠻⣿⡿⠟⠛⠉⠄⠄⠄⠄⠄⣿⡟⣼⣿⢏⣿⢧⣷
-
+Offsets will need to be updated for the actual client release. This was tested on a vanilla private server version 1.12.
+Also, it is currently still attached to my Classic WoW discord api key, So change it if you must to use with other games.
