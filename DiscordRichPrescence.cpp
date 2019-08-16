@@ -4,7 +4,6 @@
 #include "pch.h"
 #include <ctime>
 #include <Windows.h>
-#include <windows.h>
 #include <future>
 #include <string>
 
