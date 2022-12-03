@@ -1,3 +1,5 @@
+This is a program that utilizes Discord's Rich Presence API and Windows memory hooking utility to update in-game player information to Discord status.
+
 Copyright (C) 2019 Justin Carlson
 
 This program is free software: you can redistribute it and/or modify 
